@@ -32,11 +32,13 @@ code {
 }
 
 h1, h2, h3 {
-
+	
+	margin-bottom: 1%;
+	
 }
 
 h1 {
-
+	font-size: 25px;
 }
 
 h2 {
@@ -48,7 +50,7 @@ h3 {
 }
 
 header {
-	
+	text-align: center;
 }
 
 main {
@@ -56,13 +58,14 @@ main {
 }
 
 p {
-
+	font-size: 15px;
+	width: 45;
 }
 
 #intro {
-
+	margin-bottom: 5%;
 }
 
 #how-does-it-work, #influence, #joke {
-
+	margin-bottom: 5%;
 }
